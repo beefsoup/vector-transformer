@@ -1,0 +1,29 @@
+body {
+  margin: auto;
+  width: 960px;
+  padding-top: 1em;
+  text-align: center;
+  font-family: "Helvetica neue" Arial;
+}
+svg path {
+  fill: none;
+  stroke: #000;
+}
+a {
+  font-size: 14px;
+  color: #666;
+  text-transform: all-caps;
+  text-decoration: none;
+  border-bottom: 1px solid #666;
+}
+.shape-list {
+  padding: 0;
+}
+.shape-list li {
+  display: inline-block;
+  list-style: none;
+  padding: 1em;
+}
+.logo {
+  width: 100px;
+}
